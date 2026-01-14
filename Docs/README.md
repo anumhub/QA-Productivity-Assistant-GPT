@@ -17,9 +17,10 @@ This Custom GPT embeds a QA analyst mindset and structured output formats so tes
 - Test coverage gap detection
 
 ## Project Artifacts
-- `docs/` – Setup guide (how to create and configure the Custom GPT)
-- `prompts/` – 10 sample prompts to demonstrate real usage
-- `screenshots/` – GPT configuration screenshot(s) and sample outputs
+- `Docs/` – Setup guide (how to create and configure the Custom GPT)
+- `Prompts/` – 10 sample prompts to demonstrate real usage + System Instructions used in custom GPT configurations
+- `how-to-use/`- sample feature Requirement text file, sample user story text file , sample defect report text file for demo
+
 
 ## How to Use
 Use the sample prompts in `prompts/sample-prompts.md` and provide your feature requirement, user story, or defect report.
@@ -27,3 +28,5 @@ Use the sample prompts in `prompts/sample-prompts.md` and provide your feature r
 ## Tools
 - ChatGPT Custom GPT (configured instructions)
 - Prompt engineering for QA workflows
+
+   
