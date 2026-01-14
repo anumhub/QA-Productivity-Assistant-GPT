@@ -1,0 +1,24 @@
+Bug Title:
+Login button becomes unresponsive after invalid password attempts
+
+Environment:
+- Web Application
+- Browser: Chrome
+- OS: macOS
+
+Steps to Reproduce:
+1. Navigate to login page
+2. Enter valid email
+3. Enter incorrect password 3 times
+4. Click Login button again
+
+Actual Result:
+Login button does not respond.
+No error message is shown.
+
+Expected Result:
+User should see an error message and be able to retry login.
+
+Additional Notes:
+Issue occurs intermittently.
+Page refresh resolves the issue.
