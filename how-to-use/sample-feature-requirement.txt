@@ -1,0 +1,20 @@
+Feature Requirement: User Profile Management
+
+Overview:
+The User Profile Management feature allows logged-in users to view and update their personal information.
+
+Functional Requirements:
+1. User can view profile details (name, email, phone number).
+2. User can update profile fields except email.
+3. Changes should be saved only after clicking the Save button.
+4. Success message should be displayed after update.
+5. Validation errors should be shown for invalid inputs.
+
+Non-Functional Requirements:
+- Profile page should load within 3 seconds.
+- Updates should be reflected immediately after save.
+
+Supported Platforms:
+- Web application
+- Browsers: Chrome, Safari
+- Operating Systems: Windows, macOS
