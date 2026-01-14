@@ -23,7 +23,21 @@ This Custom GPT embeds a QA analyst mindset and structured output formats so tes
 
 
 ## How to Use
-Use the sample prompts in `prompts/sample-prompts.md` and provide your feature requirement, user story, or defect report.
+This project includes realistic QA samples to quickly demonstrate the Custom GPT capabilities.
+
+1. Open any sample file from the `how-to-use/` folder:
+   - User Story
+   - Feature Requirement
+   - Defect Report
+
+2. Paste the content into the QA Productivity Assistant (Custom GPT).
+
+3. Use the sample prompts from `prompts/sample-prompts.md` to:
+   - Analyze requirements
+   - Generate test cases
+   - Identify edge cases
+   - Suggest test data
+   - Perform defect triage
 
 ## Tools
 - ChatGPT Custom GPT (configured instructions)
