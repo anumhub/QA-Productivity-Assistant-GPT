@@ -19,6 +19,7 @@ This Custom GPT embeds a QA analyst mindset and structured output formats so tes
 ## Project Artifacts
 - `Docs/` – Setup guide (how to create and configure the Custom GPT)
 - `Prompts/` – 10 sample prompts to demonstrate real usage + System Instructions used in custom GPT configurations
+- `Video/` – Demo video links (videos hosted on Google Drive due to GitHub file size limits
 - `how-to-use/`- sample feature Requirement text file, sample user story text file , sample defect report text file for demo
 
 
